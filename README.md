@@ -19,3 +19,7 @@ I'm particularly interested in data analysis and web application development.
 
 I'm enthusiastic about learning new technologies and solving problems through coding.
 Feel free to connect with me on LinkedIn if you share similar interests or are learning in the same areas!
+
+### 連絡先 / Connect with me
+
+* [LinkedIn]www.linkedin.com/in/みそら-外山-b087b9346
