@@ -2,7 +2,7 @@
 
 ### プログラミング学習中の抹茶が大好きな大学生です！
 
-大学でプログラミングを学んでいます！
+大学でデータサイエンスを学んでいます！
 将来は**バックエンドエンジニア**として活躍できるよう、日々**R**や**Python**などを学習中です。
 特に、データ分析やWebアプリケーション開発に興味があります！
 
@@ -13,7 +13,7 @@
 
 ### About Me (English)
 
-I'm a university student, passionate about programming, and loving Matcha.
+I'm a university student, passionate about Data Science, and loving Matcha.
 Currently, I'm focusing on learning **R** and **Python** with the goal of becoming a **backend engineer**.
 I'm particularly interested in data analysis and web application development.
 
